@@ -1,5 +1,5 @@
 import React from "react";
-import { NikeCard } from "./components/NikeCard/NikeCard";
+import NikeCard from "./components/NikeCard/NikeCard";
 
 function App() {
   return (
